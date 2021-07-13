@@ -1,0 +1,19 @@
+.container-boss {
+    width: 75%;
+    margin: 200px auto 0 auto;
+    border: 1px solid black;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.mcButtons {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.mcManual {
+    padding: 10px;
+}
